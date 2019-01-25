@@ -1,4 +1,4 @@
-<img src="seanyshon/seanyshon.github.io/my pic.png" alt="hi" class="inline"/>
+<img src="my pic.png" class="img-responsive" alt=""> </div>
 <h1>Education</h1>
 <ul style="list-style-type:circle;">
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
