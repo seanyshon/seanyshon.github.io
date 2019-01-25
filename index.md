@@ -33,7 +33,7 @@
 
 <li><b>S. Hon </b>, M. Mursaleen, and S. Serra-Capizzano, A note on the spectral distribution of symmetrized Toeplitz sequences, Linear Algebra and its Applications, ArXiv e-prints, 2018.
   
-<li><b>S. Hon </b>, Preconditioning for Toeplitz-Related Systems, DPhil thesis, University of Oxford, 2018.
+<li><b>S. Hon </b>, Preconditioning for Toeplitz-related systems, DPhil thesis, University of Oxford, 2018.
 
 <li><b>S. Hon </b>, Optimal preconditioners for systems defined by functions of Toeplitz matrices, Linear Algebra and its Applications, 548:148-171, 2018.
 
