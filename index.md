@@ -1,18 +1,18 @@
 <h1>Education</h1>
 <ul style="list-style-type:circle;">
-<li>Doctor of Philosophy in Mathematics (Numerical Analysis), University of Oxford</li>
+<li>Doctor of Philosophy in Mathematics (Numerical Analysis), University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
     <li>Supervisor: Andrew J. Wathen</li>
   </ul>
 
-<li>Master of Philosophy in Mathematics (Applied Mathematics), Hong Kong University of Science and Technology</li>
+<li>Master of Philosophy in Mathematics (Applied Mathematics), Hong Kong University of Science and Technology, 2014</li>
   <ul>
     <li>Thesis: A Cell Based Particle Method for Modelling Dynamic Interfaces</li>
     <li>Supervisor: Shingyu~Leung</li>
   </ul>
 
-<li>Bachelor of Science in Mathematics (Applied Mathematics), Hong Kong University of Science and Technology</li>
+<li>Bachelor of Science in Mathematics (Applied Mathematics), Hong Kong University of Science and Technology, 2012</li>
   <ul>
     <li>First class honours</li>
   </ul>
