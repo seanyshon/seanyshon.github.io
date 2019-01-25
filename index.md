@@ -47,6 +47,4 @@
 
 <li><b>S. Hon</b>, S. Leung, and H. Zhao, A cell based particle method for modeling dynamic interfaces, Journal of Computational Physics, 272:279-306, 2014.
 
-</ol>  
-
-
+</ol>
