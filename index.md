@@ -27,13 +27,13 @@
 
 <li><b>S. Hon </b> and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.
 
-<li><b>S. Hon </b>, Preconditioning for Toeplitz-Related Systems, DPhil thesis, University of Oxford, 2018.
-
 <li><b>S. Hon </b>, Circulant preconditioners for analytic functions of Hermitian Toeplitz matrices, Journal of Computational and Applied Mathematics, 352:328-340, 2019.
 
 <li>P. Ferrari, I. Furci, <b>S. Hon </b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, ArXiv e-prints, 2018.
 
 <li><b>S. Hon </b>, M. Mursaleen, and S. Serra-Capizzano, A note on the spectral distribution of symmetrized Toeplitz sequences, Linear Algebra and its Applications, ArXiv e-prints, 2018.
+  
+<li><b>S. Hon </b>, Preconditioning for Toeplitz-Related Systems, DPhil thesis, University of Oxford, 2018.
 
 <li><b>S. Hon </b>, Optimal preconditioners for systems defined by functions of Toeplitz matrices, Linear Algebra and its Applications, 548:148-171, 2018.
 
