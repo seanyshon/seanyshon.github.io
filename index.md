@@ -32,7 +32,7 @@
 
 <li>P. Ferrari, I. Furci, <b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, ArXiv e-prints, 2018.</li>
 
-<li><b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, A note on the spectral distribution of symmetrized Toeplitz sequences, Linear Algebra and its Applications, ArXiv e-prints, 2018.</li>
+<li><b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, A note on the spectral distribution of symmetrized Toeplitz sequences, ArXiv e-prints, 2018.</li>
   
 <li><b>S. Hon</b>, Preconditioning for Toeplitz-related systems, DPhil thesis, University of Oxford, 2018.</li>
 
