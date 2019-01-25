@@ -4,7 +4,7 @@
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
-    <li>Supervisor: Andrew J. Wathen</li>
+    <li>Supervisor: Andrew Wathen</li>
   </ul>
 
 <li>Master of Philosophy in Mathematics, Hong Kong University of Science and Technology, 2014</li>
