@@ -24,8 +24,6 @@
 <ol>
 <li><b>S. Hon</b>, Optimal block circulant preconditioners for non-Hermitian block Toeplitz systems, submitted.</li>
 
-<li><b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, submitted.</li>
-
 <li><b>S. Hon</b> and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
 
 <li><b>S. Hon</b>, Circulant preconditioners for analytic functions of Hermitian Toeplitz matrices, Journal of Computational and Applied Mathematics, 352:328-340, 2019.</li>
