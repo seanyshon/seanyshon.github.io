@@ -1,10 +1,15 @@
 <img src="my pic.png" class="img-responsive" alt="">
 
+<h1>Current Posiution</h1>
+<ul style="list-style-type:circle;">
 Research Fellow at Department of Civil \& Environmental Engineering, National University of Singapore, Singapore.
-
+<li>Research Fellow</li>
+  <ul>
+    <li>Hosts: Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang.</li>
+    <li>Focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
+  </ul>
 
 <h1>Education</h1>
-<ul style="list-style-type:circle;">
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
