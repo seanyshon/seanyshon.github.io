@@ -1,4 +1,8 @@
 <img src="my pic.png" class="img-responsive" alt="">
+
+Research Fellow at Department of Civil \& Environmental Engineering, National University of Singapore, Singapore.
+
+
 <h1>Education</h1>
 <ul style="list-style-type:circle;">
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
