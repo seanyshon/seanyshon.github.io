@@ -2,8 +2,7 @@
 
 <h1>Current Posiution</h1>
 <ul style="list-style-type:circle;">
-Research Fellow at Department of Civil \& Environmental Engineering, National University of Singapore, Singapore.
-<li>Research Fellow</li>
+<li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
     <li>Hosts: Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang.</li>
     <li>Focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
