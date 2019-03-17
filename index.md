@@ -5,7 +5,7 @@
   <ul>
     <li>Email: ceehys @ nus.edu.sg</li>
     <li>Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang</li>
-    <li>Research focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
+    <li>Research focus: Deep reinforcement learning with applications to geoscience, numerical linear algebra, and applied and computational harmonic analysis</li>
   </ul>
 
 <h1>Education</h1>
