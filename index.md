@@ -1,15 +1,15 @@
 <img src="my pic.png" class="img-responsive" alt="">
 
-<h1>Current Position</h1>
 <ul style="list-style-type:circle;">
 <li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
     <li>Email: ceehys @ nus.edu.sg</li>
     <li>Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang.</li>
-    <li>Focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
+    <li>Research focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
   </ul>
 
 <h1>Education</h1>
+
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
