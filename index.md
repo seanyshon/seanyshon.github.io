@@ -1,6 +1,6 @@
 <img src="my pic.png" class="img-responsive" alt="">
 
-<h1>Current Posiution</h1>
+<h1>Current Position</h1>
 <ul style="list-style-type:circle;">
 <li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
