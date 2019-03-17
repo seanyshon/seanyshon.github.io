@@ -4,7 +4,7 @@
 <li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
     <li>Email: ceehys @ nus.edu.sg</li>
-    <li>Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang.</li>
+    <li>Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang</li>
     <li>Research focus: Deep reinforcement learning with applications to geoscience, and applied and computational harmonic analysis</li>
   </ul>
 
