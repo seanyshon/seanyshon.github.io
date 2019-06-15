@@ -31,13 +31,13 @@
 <h1>Publications</h1>
 
 <ol>
-<li><b>S. Hon</b>, Optimal block circulant preconditioners for non-Hermitian block Toeplitz systems, submitted.</li>
+<li><b>S. Hon</b>, Optimal block circulant preconditioners for non-Hermitian block Toeplitz systems, preprint.</li>
 
-<li><b>S. Hon</b> and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
+<li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
+
+<li>P. Ferrari, I. Furci, <b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, Linear Algebra and its Application, 579:32-50, 2019.</li>
 
 <li><b>S. Hon</b>, Circulant preconditioners for analytic functions of Hermitian Toeplitz matrices, Journal of Computational and Applied Mathematics, 352:328-340, 2019.</li>
-
-<li>P. Ferrari, I. Furci, <b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, ArXiv e-prints, 2018.</li>
 
 <li><b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, A note on the spectral distribution of symmetrized Toeplitz sequences, ArXiv e-prints, 2018.</li>
   
