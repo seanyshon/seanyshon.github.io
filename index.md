@@ -60,3 +60,148 @@
 
 <li><b>S. Hon</b>, S. Leung, and H. Zhao, A cell based particle method for modeling dynamic interfaces, Journal of Computational Physics, 272:279-306, 2014.</li>
 </ol>
+
+
+
+
+
+
+<h1>Conference Experience/Talks</h1>
+
+<ol>
+
+<li><b>Applied and Computational Mathematics Seminar</b>, National University of Singapore, Singapore
+An invited 60-min talk. %on Preconditioning for symmetrized Toeplitz systems.
+
+
+<li><b>SIAM Conference on Computational Science and Engineering 2019</b>, Spokane Convention Center, USA
+An invited 20-min talk for Computational Engineering Student Paper Prize.
+
+{\textbf{Department of Mathematics Seminar}, Hong Kong Baptist University, Hong Kong}
+\GapNoBreak
+\BulletItem
+An invited 60-min talk. %on Preconditioning for symmetrized Toeplitz systems.
+
+
+{\textbf{The 3rd conference on Numerical Analysis and Scientific Computation with Applications 2018}, National and Kapodistrian University of Athens, Greece}
+\GapNoBreak
+\BulletItem
+A 20-min talk.% on absolute value circulant preconditioners for functions of Toeplitz matrices.
+
+
+{\textbf{SIAM UKIE National Student Chapter Conference 2018}, University of Bath, United Kingdom}
+\GapNoBreak
+\BulletItem
+A 20-min talk.
+
+{\textbf{Croucher UK Scholars Mini-Symposium 2018}, London, United Kingdom}
+\GapNoBreak
+\BulletItem
+An invited 10-min talk.% on absolute value circulant preconditioners for functions of Toeplitz matrices.
+
+{\textbf{Numerical Analysis Internal Seminar (Trinity Term 2018)}, University of Oxford, United Kingdom}
+\GapNoBreak
+\BulletItem
+An invited 25-min talk.% on absolute value circulant preconditioners for Toeplitz-related matrices.
+
+
+{\textbf{Summer School on Computational Methods for Inverse Problems in Imaging 2018}, Lake Como School of Advanced Studies, Italy}
+\GapNoBreak
+\BulletItem
+Selected to give a 15-min talk on my DPhil research at the student seminar.
+
+
+{\textbf{SIAM Conference on Applied Linear Algebra 2018}, Hong Kong Baptist University, Hong Kong}
+\GapNoBreak
+\BulletItem
+A 20-min talk.% on absolute value circulant preconditioners for functions of Toeplitz matrices.
+
+
+
+{\textbf{The 27th Biennial Numerical Analysis Conference 2017}, University of Strathclyde, United Kingdom}
+\GapNoBreak
+\BulletItem
+A 20-min talk.% on the optimal circulant preconditioners for functions of Toeplitz matrices.
+
+
+
+%{\textbf{The 79th EAGE Conference \& Exhibition 2017}, Paris, France}
+%\GapNoBreak
+%\BulletItem
+%Participant.
+
+
+%{\textbf{The 8th Oxford University SIAM Student Chapter Conference 2016}, University of Oxford, United Kingdom}
+%\GapNoBreak
+%\BulletItem
+%Participant.
+
+{\textbf{Numerical Analysis Internal Seminar (Trinity Term 2016)}, University of Oxford, United Kingdom}
+\GapNoBreak
+\BulletItem
+An invited 25-min talk.% on the optimal circulant preconditioners for functions of Toeplitz matrices.
+
+{\textbf{Internal Seminar 2015}, Department of Mathematics, HKUST, Hong Kong}
+\GapNoBreak
+\BulletItem
+An invited 25-min talk.% on the optimal circulant preconditioners for functions of Toeplitz matrices.
+
+
+
+{\textbf{Numerical Analysis Internal Seminar (Michaelmas Term 2014)}, University of Oxford, United Kingdom}
+\GapNoBreak
+\BulletItem
+An invited 25-min talk.% on the cell based particle method for modelling dynamic interfaces.
+
+
+
+%{\textbf{SIAM Conference on Imaging Science 2014},
+%Hong Kong Baptist University,
+%Hong Kong}
+%\GapNoBreak
+%\BulletItem
+%Student Helper and Participant.
+
+%\hfill
+%\DatestampYMD{2014}{05}{} --
+%\DatestampYMD{2014}{05}{}
+
+
+%{\textbf{International Conference on Imaging Science 2012},
+%HKUST,
+%Hong Kong Baptist University, 
+%Hong Kong Polytechnic University,
+%Hong Kong}
+%\GapNoBreak
+%\BulletItem
+%Student Helper and Participant.
+
+%\hfill
+%\DatestampYMD{2012}{12}{22} --
+%\DatestampYMD{2012}{12}{26}
+
+
+{\textbf{The 6th international conference on Multiscale Materials Modelling 2012}, Biopolis, Singapore}
+\GapNoBreak
+\BulletItem
+A poster presentation.% on the cell based particle method for modelling dynamic interfaces.
+
+%\hfill
+%%\DatestampYMD{2012}{10}{22} --
+%\DatestampYMD{2012}{10}{26}
+
+{\textbf{Image Processing Camp 2012}, Hong Kong Virtual Institute on Imaging Sciences and Applications, Hong Kong}
+\GapNoBreak
+\BulletItem
+A poster presentation.% on the cell based particle method for modelling dynamic interfaces.
+
+%\hfill
+%\DatestampYMD{2012}{11}{22} --
+%\DatestampYMD{2012}{11}{26}
+
+
+
+</ol>
+
+
+
