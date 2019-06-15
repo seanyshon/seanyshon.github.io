@@ -66,7 +66,7 @@
 
 
 
-<h1>Conference Experience/Talks</h1>
+<h1>Conference Experience or Talks</h1>
 
 <ol>
 
