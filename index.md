@@ -16,13 +16,13 @@
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
-    <li>Supervisor: Andrew Wathen</li>
+    <li>Supervisor: Prof. Andrew Wathen</li>
   </ul>
 
 <li>Master of Philosophy in Mathematics, Hong Kong University of Science and Technology, 2014</li>
   <ul>
     <li>Thesis: A Cell Based Particle Method for Modelling Dynamic Interfaces</li>
-    <li>Supervisor: Shingyu Leung</li>
+    <li>Supervisor: Prof. Shingyu Leung</li>
   </ul>
 
 <li>Bachelor of Science in Mathematics, Hong Kong University of Science and Technology, 2012</li>
