@@ -1,10 +1,13 @@
 <img src="my pic.png" class="img-responsive" alt="">
 
 <ul style="list-style-type:circle;">
+  
+  <h1>Employment</h1>
+
 <li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
     <li>Email: ceehys @ nus.edu.sg</li>
-    <li>Hosts: Dr. Yunyue Elita Li and Dr. Haizhao Yang</li>
+    <li>Hosts: Dr. Yunyue (Elita) Li and Dr. Haizhao Yang</li>
     <li>Research focus: Machine learning with applications to geoscience, numerical linear algebra, and applied and computational harmonic analysis</li>
   </ul>
 
