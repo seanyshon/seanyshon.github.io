@@ -35,7 +35,6 @@
 
 <ol>
 
-<li><b>S. Hon</b>, H. Yang, and M. Ng, An iterative-based inverse nonuniform fast Fourier transform, in preparation.</li>
 
 <li><b>S. Hon</b>, Optimal block circulant preconditioners for non-Hermitian block Toeplitz systems, preprint.</li>
 
