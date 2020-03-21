@@ -4,11 +4,11 @@
   
   <h1>Employment</h1>
 
-<li>Research Fellow, Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
+<li>Research Fellow, Department of Mathematics and Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
   <ul>
-    <li>Email: ceehys @ nus.edu.sg</li>
-    <li>Hosts: Dr. Yunyue (Elita) Li and Dr. Haizhao Yang</li>
-    <li>Research focus: Mathematics of data science and numerical linear algebra</li>
+    <li>Email: mathys @ nus.edu.sg</li>
+    <li>Host: Dr. Haizhao Yang</li>
+    <li>Research focus: Mathematics of data science and its applications, and numerical linear algebra</li>
   </ul>
 
 <h1>Education</h1>
