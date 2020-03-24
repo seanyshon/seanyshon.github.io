@@ -103,5 +103,3 @@ An invited 20-min talk for Computational Engineering Student Paper Prize)</li>
 <li><b>Image Processing Camp 2012</b>, Hong Kong Virtual Institute on Imaging Sciences and Applications, Hong Kong. (A poster presentation)</li>
 </ol>
 
-
-
