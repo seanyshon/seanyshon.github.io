@@ -77,7 +77,7 @@ An invited 20-min talk for Computational Engineering Student Paper Prize)</li>
 
 <li><b>Department of Mathematics Seminar</b>, Hong Kong Baptist University, Hong Kong. (An invited 60-min talk)</li>
 
-<li><b>The 3rd conference on Numerical Analysis and Scientific Computation with Applications 2018</b>, National and Kapodistrian University of Athens, Greece. (A 20-min talk)</li>
+<li><b>The third conference on Numerical Analysis and Scientific Computation with Applications 2018</b>, National and Kapodistrian University of Athens, Greece. (A 20-min talk)</li>
 
 <li><b>SIAM UKIE National Student Chapter Conference 2018</b>, University of Bath, United Kingdom. (A 20-min talk)</li>
 
