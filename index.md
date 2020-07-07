@@ -25,7 +25,7 @@
 <li>Master of Philosophy in Mathematics, Hong Kong University of Science and Technology, 2014</li>
   <ul>
     <li>Thesis: A Cell Based Particle Method for Modelling Dynamic Interfaces</li>
-    <li>Supervisor: Prof. Shingyu Leung</li>
+    <li>Supervisor: Prof Shingyu Leung</li>
   </ul>
 
 <li>Bachelor of Science in Mathematics, Hong Kong University of Science and Technology, 2012</li>
