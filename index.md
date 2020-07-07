@@ -6,7 +6,7 @@
   
 <li>Assistant Professor</li>
   <ul>
-    <li>Email: seanyshon @ hkbu.edu.hk</li>
+    <li>Email: seanyshon[at]hkbu.edu.hk</li>
     <li>Office:	FSC1211, Fong Shu Chuen Building, Department of Mathematics, Hong Kong Baptist University</li>
     <li>Phone: 	(852) 3411 7317</li>
     <li>Fax:	(852) 3411 5811</li>
