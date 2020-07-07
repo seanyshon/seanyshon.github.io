@@ -2,7 +2,7 @@
 
 <ul style="list-style-type:circle;">
   
-<h1>Employment</h1>
+<h1>Sean Hon</h1>
   
 <li>Assistant Professor</li>
   <ul>
@@ -10,7 +10,7 @@
     <li>Office:	FSC1211, Fong Shu Chuen Building, Department of Mathematics, Hong Kong Baptist University</li>
     <li>Phone: 	(852) 3411-7317</li>
     <li>Fax:	(852) 3411-5811</li>
-    <li>Research focus: Mathematics of data science and its applications, and numerical linear algebra</li>
+    <li>My research focus is on mathematics of data science and its applications, numerical linear algebra, and numerical methods for solving PDEs on interfaces.     Prior to my joining HKBU in July of 2020, I was a Research Fellow at National Univeristy of Sinagpore mentored by Dr Haizhao Yang.</li>
   </ul>
 
 
