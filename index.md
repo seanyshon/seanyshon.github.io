@@ -3,12 +3,16 @@
 <ul style="list-style-type:circle;">
   
   <h1>Employment</h1>
-
-<li>Research Fellow, Department of Mathematics and Department of Civil and Environmental Engineering, National University of Singapore, Singapore</li>
+  
+<li>Assistant Professor, Department of Mathematics, Hong Kong Baptist University</li>
   <ul>
-    <li>Email: mathys @ nus.edu.sg</li>
-    <li>Host: Dr. Haizhao Yang</li>
+    <li>Email: seanyshon @ hkbu.edu.hk</li>
     <li>Research focus: Mathematics of data science and its applications, and numerical linear algebra</li>
+  </ul>
+
+<li>Research Fellow, Department of Mathematics and Department of Civil and Environmental Engineering, National University of Singapore</li>
+  <ul>
+    <li>Host: Dr Haizhao Yang</li>
   </ul>
 
 <h1>Education</h1>
@@ -16,7 +20,7 @@
 <li>Doctor of Philosophy in Mathematics, University of Oxford, 2018</li>
   <ul>
     <li>Thesis: Preconditioning for Toeplitz-Related Systems</li>
-    <li>Supervisor: Prof. Andrew Wathen</li>
+    <li>Supervisor: Prof Andrew Wathen</li>
   </ul>
 
 <li>Master of Philosophy in Mathematics, Hong Kong University of Science and Technology, 2014</li>
@@ -35,9 +39,9 @@
 
 <ol>
 
-<li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
+%<li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
 
-<li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Springer INdAM Series, accepted.</li>
+<li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
 
 <li>P. Ferrari, I. Furci, <b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, SIAM J. Matrix Anal. Appl. 40(3), 1066-1086, 2019.</li>
 
