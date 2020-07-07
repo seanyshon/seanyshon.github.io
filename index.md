@@ -2,18 +2,17 @@
 
 <ul style="list-style-type:circle;">
   
-  <h1>Employment</h1>
+<h1>Employment</h1>
   
-<li>Assistant Professor, Department of Mathematics, Hong Kong Baptist University</li>
+<li>Assistant Professor</li>
   <ul>
     <li>Email: seanyshon @ hkbu.edu.hk</li>
+    <li>Office:	FSC1211, Fong Shu Chuen Building, Department of Mathematics, Hong Kong Baptist University</li>
+    <li>Phone: 	(852) 3411-7317</li>
+    <li>Fax:	(852) 3411-5811</li>
     <li>Research focus: Mathematics of data science and its applications, and numerical linear algebra</li>
   </ul>
 
-<li>Research Fellow, Department of Mathematics and Department of Civil and Environmental Engineering, National University of Singapore</li>
-  <ul>
-    <li>Host: Dr Haizhao Yang</li>
-  </ul>
 
 <h1>Education</h1>
 
@@ -39,7 +38,7 @@
 
 <ol>
 
-%<li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li>
+ <!--- <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li> --->
 
 <li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
 
