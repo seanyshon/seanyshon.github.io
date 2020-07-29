@@ -77,38 +77,37 @@
 <h1>Conference Experience or Talks</h1>
 
 <ol>
-<li><b>International Conference on Preconditioning Techniques for Scientific and Industrial Applications (Preconditioning 2019)</b>, University of Minnesota, USA. (A 25-min talk)</li>
+<li><b>International Conference on Preconditioning Techniques for Scientific and Industrial Applications (Preconditioning 2019)</b>, University of Minnesota, USA.</li>
 
-<li><b>Applied and Computational Mathematics Seminar</b>, National University of Singapore, Singapore. (An invited 60-min talk)</li>
+<li><b>Applied and Computational Mathematics Seminar</b>, National University of Singapore, Singapore.</li>
 
-<li><b>SIAM Conference on Computational Science and Engineering 2019</b>, Spokane Convention Center, USA. (
-An invited 20-min talk for Computational Engineering Student Paper Prize)</li>
+<li><b>SIAM Conference on Computational Science and Engineering 2019</b>, Spokane Convention Center, USA.</li>
 
-<li><b>Department of Mathematics Seminar</b>, Hong Kong Baptist University, Hong Kong. (An invited 60-min talk)</li>
+<li><b>Department of Mathematics Seminar</b>, Hong Kong Baptist University, Hong Kong.</li>
 
-<li><b>The third conference on Numerical Analysis and Scientific Computation with Applications 2018</b>, National and Kapodistrian University of Athens, Greece. (A 20-min talk)</li>
+<li><b>The third conference on Numerical Analysis and Scientific Computation with Applications 2018</b>, National and Kapodistrian University of Athens, Greece.</li>
 
-<li><b>SIAM UKIE National Student Chapter Conference 2018</b>, University of Bath, United Kingdom. (A 20-min talk)</li>
+<li><b>SIAM UKIE National Student Chapter Conference 2018</b>, University of Bath, United Kingdom.</li>
 
-<li><b>Croucher UK Scholars Mini-Symposium 2018</b>, London, United Kingdom. (An invited 10-min talk)</li>
+<li><b>Croucher UK Scholars Mini-Symposium 2018</b>, London, United Kingdom.</li>
 
-<li><b>Numerical Analysis Internal Seminar (Trinity Term 2018)</b>, University of Oxford, United Kingdom. (An invited 25-min talk)</li>
+<li><b>Numerical Analysis Internal Seminar (Trinity Term 2018)</b>, University of Oxford, United Kingdom.</li>
 
-<li><b>Summer School on Computational Methods for Inverse Problems in Imaging 2018</b>, Lake Como School of Advanced Studies, Italy. (Selected to give a 15-min talk on my DPhil research at the student seminar)</li>
+<li><b>Summer School on Computational Methods for Inverse Problems in Imaging 2018</b>, Lake Como School of Advanced Studies, Italy.</li>
 
-<li><b>SIAM Conference on Applied Linear Algebra 2018</b>, Hong Kong Baptist University, Hong Kong. (A 20-min talk)</li>
+<li><b>SIAM Conference on Applied Linear Algebra 2018</b>, Hong Kong Baptist University, Hong Kong.</li>
 
-<li><b>The 27th Biennial Numerical Analysis Conference 2017</b>, University of Strathclyde, United Kingdom. (A 20-min talk)</li>
+<li><b>The 27th Biennial Numerical Analysis Conference 2017</b>, University of Strathclyde, United Kingdom.</li>
 
 
-<li><b>Numerical Analysis Internal Seminar (Trinity Term 2016)</b>, University of Oxford, United Kingdom. (An invited 25-min talk)</li>
+<li><b>Numerical Analysis Internal Seminar (Trinity Term 2016)</b>, University of Oxford, United Kingdom.</li>
 
-<li><b>Internal Seminar 2015</b>, Department of Mathematics, HKUST, Hong Kong. (An invited 25-min talk)</li>
+<li><b>Internal Seminar 2015</b>, Department of Mathematics, HKUST, Hong Kong.</li>
 
-<li><b>Numerical Analysis Internal Seminar (Michaelmas Term 2014)</b>, University of Oxford, United Kingdom. (An invited 25-min talk)</li>
+<li><b>Numerical Analysis Internal Seminar (Michaelmas Term 2014)</b>, University of Oxford, United Kingdom.</li>
 
-<li><b>The 6th international conference on Multiscale Materials Modelling 2012</b>, Biopolis, Singapore. (A poster presentation)</li>
+<li><b>The 6th international conference on Multiscale Materials Modelling 2012</b>, Biopolis, Singapore.</li>
 
-<li><b>Image Processing Camp 2012</b>, Hong Kong Virtual Institute on Imaging Sciences and Applications, Hong Kong. (A poster presentation)</li>
+<li><b>Image Processing Camp 2012</b>, Hong Kong Virtual Institute on Imaging Sciences and Applications, Hong Kong.</li>
 </ol>
 
