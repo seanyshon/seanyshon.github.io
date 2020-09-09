@@ -53,8 +53,7 @@
 
 <ol type="1">
 
-1. <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
- <!--- <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li> --->
+<!--- <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li> --->
 
 <li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
 
