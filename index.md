@@ -38,21 +38,18 @@
   <ul>
     <li>First class honours</li>
   </ul>
-</ul>
-
 
 
 <h1>Awards and Honours (selected)</h1>
 
-<li> The 7th BGCE Best Student Prize (Finalist)}, SIAM Conference on Computational Science and Engineering, 2019</li>
+<li>The 7th BGCE Best Student Prize (Finalist)}, SIAM Conference on Computational Science and Engineering, 2019</li>
 
-<li> University of Oxford Croucher Scholarship, Croucher Foundation and University of Oxford, 2014</li>
+<li>University of Oxford Croucher Scholarship, Croucher Foundation and University of Oxford, 2014</li>
 
 
 
 
 <h1>Publications</h1>
-
 
 <ol>
 
