@@ -51,7 +51,7 @@
 
 <h1>Publications</h1>
 
-<ol>
+<ol type="1">
 
  <!--- <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li> --->
 
@@ -86,7 +86,7 @@
 
 <h1>Talks</h1>
 
-<ol>
+<ol type="1">
 <li><b>International Conference on Preconditioning Techniques for Scientific and Industrial Applications (Preconditioning 2019)</b>, University of Minnesota, USA.</li>
 
 <li><b>Applied and Computational Mathematics Seminar</b>, National University of Singapore, Singapore.</li>
