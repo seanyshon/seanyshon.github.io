@@ -42,8 +42,7 @@
 
 
 
-
-<h1>Awards and Honours</h1>
+<h1>Awards and Honours (selected)</h1>
 
 <li> The 7th BGCE Best Student Prize (Finalist)}, SIAM Conference on Computational Science and Engineering, 2019</li>
 
