@@ -76,6 +76,7 @@
 <li>K. Siegel, K. Altenburger, <b>Y. Hon</b>, J. Lin, and C. Yu, PuzzleCluster: a novel unsupervised clustering algorithm for binning DNA fragments in metagenomics, Current Bioinformatics, vol. 10, pp. 3-13, 2015.</li>
 
 <li><b>S. Hon</b>, S. Leung, and H. Zhao, A cell based particle method for modeling dynamic interfaces, Journal of Computational Physics, 272:279-306, 2014.</li>
+
 </ol>
 
 
