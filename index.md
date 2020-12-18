@@ -16,7 +16,7 @@
 <h1>News</h1>
 <li>
 <span style="color: blue">
-Recruiting a PhD/MPhil student to work on developing fast iterative solvers for time-dependent PDE problems. Applicants are expected to have solid knowledge in numerical linear algebra and strong programming skills in MATLAB/C/C++. Please contact me via emails for details.
+Recruiting a PhD student to work on developing fast iterative solvers for time-dependent PDE problems. Applicants are expected to have solid knowledge in numerical linear algebra and strong programming skills in MATLAB/C/C++. Please contact me via emails for details.
 </span>
 </li>
 
