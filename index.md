@@ -13,14 +13,20 @@
     <li>My research focus is on mathematics of data science and its applications, numerical linear algebra, and numerical methods for solving PDEs on interfaces.     Prior to my joining HKBU in July of 2020, I was a Research Fellow at National University of Singapore mentored by Dr Haizhao Yang.</li>
   </ul>
 
+<!--
 <h1>News</h1>
 <li>
 <span style="color: blue">
 Recruiting a PhD student to work on developing fast iterative solvers for time-dependent PDE problems. Applicants are expected to have solid knowledge in numerical linear algebra and strong programming skills in MATLAB/C/C++. Please contact me via emails for details.
 </span>
 </li>
+--!>
 
 <h1>Teaching</h1>
+<li> Semester 2, 2020-2021 </li>
+  <ul>
+    <li>MATH 4615 Introduction to Numerical Linear Algebra</li>
+  </ul>
 <li> Semester 1, 2020-2021 </li>
   <ul>
     <li>MATH3405 Ordinary Differential Equations</li>
