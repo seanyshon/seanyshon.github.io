@@ -13,14 +13,14 @@
     <li>My research focus is on mathematics of data science and its applications, numerical linear algebra, and numerical methods for solving PDEs on interfaces.     Prior to my joining HKBU in July of 2020, I was a Research Fellow at National University of Singapore mentored by Dr Haizhao Yang.</li>
   </ul>
 
-<!--
+
 <h1>News</h1>
 <li>
 <span style="color: blue">
-Recruiting a PhD student to work on developing fast iterative solvers for time-dependent PDE problems. Applicants are expected to have solid knowledge in numerical linear algebra and strong programming skills in MATLAB/C/C++. Please contact me via emails for details.
+Recruiting a PhD student to work on developing fast iterative solvers for time-dependent PDE problems (i.e. preconditinoing for Toeplitz-like systems). Applicants are expected to have solid knowledge in numerical linear algebra and strong programming skills in MATLAB/C/C++. Please contact me via emails for details.
 </span>
 </li>
---!>
+
 
 <h1>Teaching</h1>
 <li> Semester 2, 2020-2021 </li>
@@ -100,6 +100,9 @@ Recruiting a PhD student to work on developing fast iterative solvers for time-d
 <h1>Talks</h1>
 
 <ol type="1">
+  
+<li><b>SIAM Conference on Applied Linear Algebra (LA21)</b>, Virtual Conference.</li>
+  
 <li><b>International Conference on Preconditioning Techniques for Scientific and Industrial Applications (Preconditioning 2019)</b>, University of Minnesota, USA.</li>
 
 <li><b>Applied and Computational Mathematics Seminar</b>, National University of Singapore, Singapore.</li>
