@@ -71,7 +71,7 @@
 
 <ol type="1">
 
-<li><b>S. Hon</b>,Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, submitted.</li> 
+<li><b>S. Hon</b>, Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, submitted.</li> 
 
 <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, to appear, 2021.</li> 
 
