@@ -23,6 +23,11 @@
 
 
 <h1>Teaching</h1>
+  <li> Semester 1, 2021-2022 </li>
+  <ul>
+    <li>MATH2207 Linear Algebra</li>
+  </ul>
+  
 <li> Semester 2, 2020-2021 </li>
   <ul>
     <li>MATH 4615 Introduction to Numerical Linear Algebra</li>
@@ -66,7 +71,9 @@
 
 <ol type="1">
 
-<!--- <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, submitted.</li> --->
+<li><b>S. Hon</b>,Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, submitted.</li> 
+
+<li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, to appear, 2021.</li> 
 
 <li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
 
