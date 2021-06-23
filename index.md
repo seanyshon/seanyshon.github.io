@@ -26,6 +26,7 @@
   <li> Semester 1, 2021-2022 </li>
   <ul>
     <li>MATH2207 Linear Algebra</li>
+    <li>MATH3405 Ordinary Differential Equations</li>
   </ul>
   
 <li> Semester 2, 2020-2021 </li>
