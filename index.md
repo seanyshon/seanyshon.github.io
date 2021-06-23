@@ -13,7 +13,7 @@
     <li>My research focus is on mathematics of data science and its applications, numerical linear algebra, and numerical methods for solving PDEs on interfaces.     Prior to my joining HKBU in July of 2020, I was a Research Fellow at National University of Singapore mentored by Dr Haizhao Yang.</li>
   </ul>
 
-<!––
+<!--
 <h1>News</h1>
 <li>
 <span style="color: blue">
