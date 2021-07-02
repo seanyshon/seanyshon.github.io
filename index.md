@@ -71,12 +71,13 @@
 <h1>Publications</h1>
 
 <ol type="1">
-<!--
+
+<li><b>S. Hon</b>, Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, in preparation.</li> 
 
 <li><b>S. Hon</b>, Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, submitted.</li> 
 
 <li><b>S. Hon</b>, S. Serra-Capizzano, and A. Wathen, Band-Toeplitz preconditioners for ill-conditioned nonsymmetric Toeplitz systems, to appear, 2021.</li> 
--->
+
 <li> <b>S. Hon</b> and A. Wathen, Numerical investigation of the spectral distribution of Toeplitz-function sequences, Computational Methods for Inverse Problems in Imaging. Springer INdAM Series, vol 36. Springer, Cham, 2019.</li>
 
 <li>P. Ferrari, I. Furci, <b>S. Hon</b>, M. Mursaleen, and S. Serra-Capizzano, The eigenvalue distribution of special 2-by-2 block matrix sequences, with applications to the case of symmetrized Toeplitz structures, SIAM J. Matrix Anal. Appl. 40(3), 1066-1086, 2019.</li>
