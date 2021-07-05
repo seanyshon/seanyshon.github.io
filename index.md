@@ -10,7 +10,7 @@
     <li>Office:	FSC1211, Fong Shu Chuen Building, Department of Mathematics, Hong Kong Baptist University</li>
     <li>Phone: 	(852) 3411 7317</li>
     <li>Fax:	(852) 3411 5811</li>
-    <li>My research focus is on numerical linear algebra and numerical methods for solving PDEs. Prior to my joining HKBU in July of 2020, I was a Research Fellow at National University of Singapore mentored by Dr Haizhao Yang.</li>
+    <li>My research focus is on numerical linear algebra, mathematics of data sicence, and numerical methods for solving PDEs. Prior to my joining HKBU in July of 2020, I was a Research Fellow at National University of Singapore mentored by Dr Haizhao Yang.</li>
   </ul>
 
 <!--
