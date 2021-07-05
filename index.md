@@ -107,7 +107,7 @@
 
 
 
-<h1>Talks</h1>
+<h1>Talks at conferences</h1>
 
 <ol type="1">
   
