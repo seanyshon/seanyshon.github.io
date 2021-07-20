@@ -72,7 +72,7 @@
 
 <ol type="1">
 
-<li><b>S. Hon</b>, Block Toeplitz preconditioners for all-at-once systems of wave equations, in preparation.</li> 
+<li><b>S. Hon</b> and S. Serra-Capizzano, Block Toeplitz preconditioners for all-at-once systems of wave equations, in preparation.</li> 
 
 <li><b>S. Hon</b>, Optimal block circulant preconditioners for block Toeplitz systems with application to evolutionary PDEs, in preparation.</li> 
 
